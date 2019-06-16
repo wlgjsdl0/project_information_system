@@ -33,11 +33,18 @@ Reviewer 화면|[Reviewer 화면 스토리보드](https://drive.google.com/open?
 학회페이지(일반사용자 & 단순방문자) 화면|[학회페이지(일반사용자 & 단순방문자) 화면 스토리보드](https://drive.google.com/open?id=1XBhi1RAqrzUcwM5mqHWMJWS0KsJkyLJI)
 학회페이지(관리자) 화면|[학회페이지(관리자) 화면 스토리보드](https://drive.google.com/open?id=1ZuyXI_sJ9KfKO7QQJrzmquNn_4nxiRGR)
 
+장표
+----
+발표|장표
+----|----
+1차 발표|[Choa 1차 발표용 장표](https://drive.google.com/file/d/1axX3y5tt2ap-mG10hUwJ7xww7_CUSfqy/view?usp=sharing)
+2차 발표|[Choa 2차 발표용 장표](https://drive.google.com/file/d/1UYzZfEfXIE-951XG8ocP9p3-OUH2pHiC/view?usp=sharing)
+3차 발표|[Choa 3차 발표용 장표](https://drive.google.com/file/d/1zbCHv6XZ3sTCGQ70f5809hxxJ_AkA1my/view?usp=sharing)
 
 백로그
 ----
 - 유저 페르소나 : [페르소나1(강수정)](https://drive.google.com/open?id=1a_viX7Uj2oKjO8_5LsJW8Qgl4vJ82t1Q), [페르소나2(김연철)](https://drive.google.com/open?id=1PLOcchEOCFQw_ICzHQ21bMta_yOg-zYR), [페르소나3(안다심)](https://drive.google.com/open?id=1Cd5Zyv1aDI5sWwwKkt28ojrdnS-9A7xP), [페르소나4(윤백상)](https://drive.google.com/open?id=1tnVFpGwb9QwpV7v5PNXWrDo6OFXu0FxD)
-- 1차 장표 : [Choa 1차장표](https://drive.google.com/open?id=1axX3y5tt2ap-mG10hUwJ7xww7_CUSfqy)
+
 
 프로젝트 참여자
 ----
